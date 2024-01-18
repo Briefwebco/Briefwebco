@@ -1,7 +1,4 @@
 ### WAzzup 👋
-
-
-<!--
 **PixelperfectDreams/CodeHarmonyConcoctions** 🎨✨
 
 Welcome to the realm where pixels dance with code, and dreams come to life! I'm {Chris}, the enchanter behind UX/UI wonders and code symphonies.
@@ -25,4 +22,3 @@ Need a touch of magic for your project? Shoot an email to {kristianweee@gmail.co
 Here's a fun secret: I turn coffee into code magic, and each line written is a cosmic connection made. ☕✨
 
 Explore the repository, and let the journey into the magical fusion of design and code begin! ✨🚀
--->
